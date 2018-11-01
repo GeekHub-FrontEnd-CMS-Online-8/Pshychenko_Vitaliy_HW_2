@@ -24,6 +24,10 @@ h3 {
     text-align: center;
 }
 
+.aircraft {
+    float: left;
+}
+
 .underline {
     text-decoration: underline;
 }
